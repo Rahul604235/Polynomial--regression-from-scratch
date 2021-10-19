@@ -1,1 +1,1 @@
-# Polynomial--regression-from-scratch
+# Polynomial-regression-from-scratch
